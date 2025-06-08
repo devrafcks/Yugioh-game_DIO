@@ -31,8 +31,7 @@ const state = {
   },
 };
 
-const PATH_IMAGES = "../assets/icons/";
-
+const pathImages = './src/assets/icons/';
 const CARD_DATA = [
   {
     id: 0,
