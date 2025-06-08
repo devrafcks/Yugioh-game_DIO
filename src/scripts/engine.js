@@ -31,7 +31,7 @@ const state = {
   },
 };
 
-const pathImages = './src/assets/icons/';
+const pathImages = 'https://devrafcks.github.io/src/assets/icons/';
 const CARD_DATA = [
   {
     id: 0,
